@@ -68,8 +68,8 @@
     
     .bg .navv .nav .x .li{display: none; padding: 0;}
     .bg .navv .nav .x .lin .n {display: none;}
-    .bg .navv .nav .x .lin .fa-user{ font-size: 22px; padding-top: 0px;}
-    .bg .navv .nav .x .lin{padding: 22px;}
+    .bg .navv .nav .x .lin .fa-user{ font-size: 23px; padding-right: 30px;}
+    .bg .navv .nav .x .lin{padding-top:20px;}
     .bg .navv .logo a .logo2{
         display:block;
     }
