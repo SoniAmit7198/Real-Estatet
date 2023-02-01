@@ -1,0 +1,90 @@
+@media (max-width:576px) {
+   
+}
+
+
+@media (max-width:786px) {
+ 
+  
+    
+ 
+   
+    
+}
+
+@media (max-width:992px) {
+  
+}
+@media (max-width:1200px) {
+    .bg .navv .butn .button{
+        display: none;
+    }
+    .bg .navv{
+        height: 70px;
+        background-color:var(--bs-white);
+        z-index: 1;
+        grid-template-columns: 1fr 1fr 1fr;
+        position: relative;
+        color: black;
+    }
+    .bg .navv .logo{
+      
+         position: absolute;
+         width: 80%;
+         top: 0;
+         left: 10%;
+         
+         
+        
+    }
+    .bg .navv .nav{
+      
+        position: absolute;
+        width: 10%;
+        top: 0;
+        right: 0%;
+       
+       
+   }
+   .bg .navv .butn{
+      
+    position: absolute;
+    width: 10%;
+    top: 0;
+    left: 0%;
+   
+   
+}
+.bg .navv .butn .fa-bars {
+    display: block;
+    line-height: 72px;
+    text-align: left;
+    padding-left: 15px;
+}
+.button{
+    display: none;
+}
+    .bg .navv .logo a{color: black;}
+    
+    .bg .navv .nav .x .li{display: none; padding: 0;}
+    .bg .navv .nav .x .lin .n {display: none;}
+    .bg .navv .nav .x .lin .fa-user{ font-size: 22px; padding-top: 0px;}
+    .bg .navv .nav .x .lin{padding: 22px;}
+    .bg .navv .logo a .logo2{
+        display:block;
+    }
+    .bg .navv .logo a .logo1{
+        display: none;
+    }
+  
+}
+
+@media (max-width:1400px) {
+    .bg .navv .nav .lin {
+        padding: 32px 5px;
+    }
+
+   
+  
+
+}
