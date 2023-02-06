@@ -12,18 +12,23 @@
     .search .m1 .m3 .m4 .enter .t1{
         left: 70%;
     }
+    .bg .txt{
+        font-size: 15px !important;
+        padding-bottom: 50px;
+    
+    }
+  
+    .bg {
+       grid-template-rows: 0fr 0fr 0fr;
+    }
 }
 
 
 @media (max-width:786px) {
  
   
-    .bg .txt {
-        font-size: 15px !important;
-        padding-top: 50px !important;
-    }
- 
-   
+    
+     
     
 }
 
