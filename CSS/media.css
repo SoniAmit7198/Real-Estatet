@@ -1,5 +1,17 @@
 @media (max-width:576px) {
-   
+    .search .m1 .m3 .m4 .enter .key{
+        padding: 14px 30px 14px 5px;
+    
+    }
+    .search .m1 .m3 .m4 {
+        display: block;
+    }
+    .search .m1 .m3 .m4 .key4{
+        padding: 14px 70px;
+    }
+    .search .m1 .m3 .m4 .enter .t1{
+        left: 70%;
+    }
 }
 
 
