@@ -6,7 +6,10 @@
 @media (max-width:786px) {
  
   
-    
+    .bg .txt {
+        font-size: 15px !important;
+        padding-top: 50px !important;
+    }
  
    
     
@@ -68,7 +71,7 @@
     
     .bg .navv .nav .x .li{display: none; padding: 0;}
     .bg .navv .nav .x .lin .n {display: none;}
-    .bg .navv .nav .x .lin .fa-user{ font-size: 23px; padding-right: 30px;}
+    .bg .navv .nav .x .lin .fa-user{ font-size: 23px;}
     .bg .navv .nav .x .lin{padding-top:20px;}
     .bg .navv .logo a .logo2{
         display:block;
@@ -83,7 +86,10 @@
     .bg .navv .nav .lin {
         padding: 32px 5px;
     }
-
+    .bg .txt {
+        font-size: 20px;
+        padding-top: 75px;
+    }
    
   
 
