@@ -69,7 +69,6 @@ a {
     grid-template-columns: 2fr 6fr 2fr;
     padding: 20px;
     z-index: 1;
-
     color: var(--bs-white);
 }
 
